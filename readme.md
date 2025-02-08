@@ -1,6 +1,6 @@
 # About StudioJae
 
-Welcome to **StudioJae**, a leading **[agence création de site](https://studiojae.fr/)** and digital strategy agency. We specialize in building custom websites, enhancing user experiences, and providing tailored SEO solutions to help your business grow online.  
+Welcome to **StudioJae**, a leading **[agence seo](https://studiojae.fr/)** and digital strategy agency at cannes. We specialize in building custom websites, enhancing user experiences, and providing tailored SEO solutions to help your business grow online.  
 
 ## Our Expertise Includes:  
 - **Website Design and Development**: Custom, responsive, and SEO-friendly websites.  
